@@ -46,7 +46,7 @@
         "4G",
         "--allow-unauthenticated",
         "--update-env-vars",
-        "DB_URL=bigquery://$PROJECT_ID/deliverydb"
+        "DB_URL=bigquery://project-lab-1-399708/deliverydb"
       ]
     }
   ]
